@@ -2,7 +2,7 @@
 
 <div align='center'>
   <header>
- <img src = "https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=NOAH%20&fontSize=90&animation=scaleIn)"
+ <img src = "https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=NOAH%20&fontSize=90&animation=scaleIn)"
     
   </header>
   <h1>
