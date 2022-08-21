@@ -7,6 +7,7 @@
   </header>
   <h1>
   <h3>Hi there 👋</h3>
+  <p>I'm a student at Pukyong National University.</p> <a href="https://chain-warbler-245.notion.site/pizzalist-9a1ca8fe744c47618320c6b4c76de867">..more</a>
   <br>
   <h3>Tech Stack</h3>
       <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
