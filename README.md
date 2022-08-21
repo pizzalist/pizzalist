@@ -1,11 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=NOAH%20&fontSize=90&animation=scaleIn)
 
 
 <div align='center'>
+  <header>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=NOAH%20&fontSize=90&animation=scaleIn)"
+    
+  </header>
   <h1>
   <h3>Hi there 👋</h3>
   <br>
-  <h3>Languages and Tools</h3>
+  <h3>Tech Stack</h3>
       <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
       <img src="https://img.shields.io/badge/CSS-000000?style=round-square&logo=css3&logoColor=blue"/>
       <img src="https://img.shields.io/badge/JavaScript-000000?style=round-square&logo=JavaScript&logoColor=yellow"/>
@@ -23,8 +26,10 @@
     <a href="mailto:letgoofthepizza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
     <a href="https://www.instagram.com/pizza_list/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOAH&show_icons=true&theme=radical)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwarang98&show_icons=true&theme=dark)
+    <br></br><br><br/>
+    <p>
+    <img src ="https://github-readme-stats.vercel.app/api?username=pizzalist&show_icons=true&theme=radical"
+    </p>
 </div>
 
 
