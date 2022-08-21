@@ -23,7 +23,7 @@
     <a href="mailto:letgoofthepizza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
     <a href="https://www.instagram.com/pizza_list/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
-    ![NOAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOAH&show_icons=true&theme=radical)
 </div>
 
 
