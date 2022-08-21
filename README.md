@@ -35,6 +35,5 @@
     </p>
 </div>
 
-      <a href="https://chain-warbler-245.notion.site/pizzalist-9a1ca8fe744c47618320c6b4c76de867">C.V.</a>
 
 
