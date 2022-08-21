@@ -29,7 +29,7 @@
   </p>
     <br></br><br><br/>
     <p>
-    <img src ="https://github-readme-stats.vercel.app/api?username=pizzalist&show_icons=true&theme=radical"
+    <img src ="https://github-readme-stats.vercel.app/api?username=pizzalist&show_icons=true&theme=dark"
     </p>
 </div>
 
