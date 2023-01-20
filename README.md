@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpizzalist%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <div align='center'>
@@ -10,7 +11,11 @@
   <h3>Hi there 👋  I'm  <a href="https://chain-warbler-245.notion.site/pizzalist-9a1ca8fe744c47618320c6b4c76de867">noah</a>
     </h3>
   <p>I'm a student at Pukyong National University.</p> 
+   <p>I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
   <br>
+
+[![NOAH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pizzalist&bg_color=000&color=FF9700&line=FF9700&point=fff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <h3>Tech Stack</h3>
       <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
       <img src="https://img.shields.io/badge/CSS-000000?style=round-square&logo=css3&logoColor=blue"/>
