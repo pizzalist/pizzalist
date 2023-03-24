@@ -17,16 +17,11 @@
 [![NOAH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pizzalist&bg_color=000&color=FF9700&line=FF9700&point=fff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <h3>Tech Stack</h3>
-      <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
-      <img src="https://img.shields.io/badge/CSS-000000?style=round-square&logo=css3&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=round-square&logo=JavaScript&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=round-square&logo=Node.js&logoColor=bluegreen"/>
-      <img src="https://img.shields.io/badge/Bootstrap-000000?style=round-square&logo=Bootstrap&logoColor=7952B3"/>
-      <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
       <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=round-square&logo=GitHub&logoColor=bluegreen"/>
-      <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=round-square&logo=Visual Studio Code&logoColor=007ACC"/>
+
   <br>
   <br>
   <h3> Me </h3>
