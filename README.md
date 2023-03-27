@@ -8,7 +8,7 @@
 
   <h1>
      
-  <h3>Hi there 👋  I'm  <a href="https://chain-warbler-245.notion.site/pizzalist-9a1ca8fe744c47618320c6b4c76de867">noah</a>
+  <h3>Hi there 👋  I'm  <a href="https://pepper-origami-952.notion.site/pizzalist-9089e0014cdd4d6ca86e204dbfc95153">noah</a>
     </h3>
   <p>I'm a student at Pukyong National University.</p> 
    <p>I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
