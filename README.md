@@ -14,8 +14,7 @@
    <p>I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
   <br>
 
-[![NOAH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pizzalist&bg_color=000&color=FF9700&line=FF9700&point=fff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![NOAH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pizzalist&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <h3>Tech Stack</h3>
       <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
