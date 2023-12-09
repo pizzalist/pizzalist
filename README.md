@@ -26,7 +26,7 @@
   <h3> Me </h3>
   <p>
     <a href="mailto:letgoofthepizza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
-    <a href="https://www.instagram.com/pizza_list/"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
+    <a href="https://www.youtube.com/@droptheAI"><img src="https://img.shields.io/youtube/channel/subscribers/UCy3qm8wsPiQgdLeZZlNlfdA"/></a>
   </p>
     <br></br><br><br/>
     <p>
