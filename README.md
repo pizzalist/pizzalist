@@ -13,26 +13,9 @@
   <p>I'm a student at Pukyong National University.</p> 
    <p>I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
   <br>
-
-[![NOAH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pizzalist&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <h3>Tech Stack</h3>
-      <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=round-square&logo=Node.js&logoColor=bluegreen"/>
-      <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
-
-  <br>
-  <br>
   <h3> Me </h3>
   <p>
     <a href="mailto:letgoofthepizza@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
     <a href="https://www.youtube.com/@droptheAI"><img src="https://img.shields.io/youtube/channel/subscribers/UCy3qm8wsPiQgdLeZZlNlfdA?&labelColor=000000&color=000000"/></a>
   </p>
-    <br></br><br><br/>
-    <p>
-    <img src ="https://github-readme-stats.vercel.app/api?username=pizzalist&show_icons=true&theme=dark">
-    </p>
-</div>
-
-
 
